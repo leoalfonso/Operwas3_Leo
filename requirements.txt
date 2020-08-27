@@ -1,0 +1,6 @@
+# tkinter should be installed via apt
+pillow
+platypus-Opt
+matplotlib
+pandas
+seaborn
